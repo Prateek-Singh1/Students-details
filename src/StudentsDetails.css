@@ -1,0 +1,72 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: -1200px;
+  text-shadow: 5px 5px 10px gray;
+}
+
+#btn {
+  background-color: rgb(6, 117, 34);
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+  color: white;
+  width: 150px;
+  height: 40px;
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 490px;
+}
+.studentDetails {
+  margin-left: -1135px;
+}
+body {
+  background-color: rgb(217, 255, 244);
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  height: 40px;
+  margin-bottom: 30px;
+  background-color: rgb(2, 44, 28);
+  color: white;
+}
+
+#home,
+#students,
+#contact {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+table {
+  background-color: rgb(141, 253, 225);
+  margin-left: 110px;
+  width: 1300px;
+  height: auto;
+  margin-top: 60px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px gray;
+}
+
+thead {
+  background-color: rgb(1, 134, 134);
+  color: white;
+  height: 45px;
+}
+
+td {
+  height: 40px;
+}
